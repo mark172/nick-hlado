@@ -25,38 +25,7 @@
       </div>
     </div> <!-- hero -->
 
-    <!-- Kineoworks Pitch -->
-    <div class="kineoworks-pitch">
-      <div class="container">
-        <div class="row">
-
-          <div class="col-md-4 col-sm-4">
-            <h3>Our Vision</h3>
-            <span class="glyphicon glyphicon-heart"></span>
-            <p>Our vision will blow you away,
-            We hustle hard to deliver only the best.</p>
-            <a class="btn btn-default" href="services.html">More about our vision</a>
-          </div> <!-- col-md-4 -->
-  
-          <div class="col-md-4 col-sm-4">
-            <h3>Our Portfolio</h3>
-            <span class="glyphicon glyphicon-picture"></span>
-            <p>We only show you our best work here.
-            Our portfolio will do the word.</p>
-            <a class="btn btn-testimonial" href="portfolio.php">View our portfolio</a>
-          </div> <!-- col-md-4 -->
-  
-          <div class="col-md-4 col-sm-4">
-            <h3>Our Team</h3>
-            <span class="glyphicon glyphicon-user"></span>
-            <p>We are a team of passionate designers,
-            who value a good UX and a clean UI.</p>
-            <a class="btn btn-default" href="about.html">Meet our team</a>
-          </div> <!-- col-md-4 -->
-        </div>  
-      </div> <!-- container -->
-    </div> <!-- pitch -->
-
+    
     
     <!-- Kineoworks Testimonials -->
     <div class="kineoworks-testimonials">

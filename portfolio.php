@@ -23,11 +23,11 @@
             <!-- Kineoworks Portfolio Item -->
             <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "logo"]'>
               <!-- Big image -->
-              <a data-lightbox-gallery="logo" href="img/portfolio/big/1.jpg">
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/anatomy_human_life_drawing_sketches_LG.jpg">
                 <!-- Thumbnail image -->
-                <img class="img-responsive" src="img/portfolio/small/1.jpg" alt="portfolio-item">
+                <img class="img-responsive" src="img/portfolio/small/anatomy_human_life_drawing_sketches_SM.jpg" alt="portfolio-item">
                 <!-- Thumbnail hover -->
-                <div><h3>Portfolio Item<br><small>I'm a subtitle!</small></h3></div>
+                <div><h3>Anatomy of Pose Human Life Drawing Sketches<br><small>I'm a subtitle!</small></h3></div>
               </a>
             </div> <!--/.portfolio-item -->
 

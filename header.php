@@ -39,7 +39,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="index.html">Nick Hlado</a>
+            <a class="navbar-brand" href="index.php">Nick Hlado</a>
           </div>
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
