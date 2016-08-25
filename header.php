@@ -14,6 +14,8 @@
 
     <!-- Custom styles for this template -->
     <link href="style.css" rel="stylesheet">
+    <link rel="stylesheet" href="nivolightbox/nivo-lightbox.css" type="text/css" />
+    <link rel="stylesheet" href="nivolightbox/themes/default/default.css" type="text/css" />
 
     <!-- Google Fonts -->
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600' rel='stylesheet' type='text/css'>
@@ -42,7 +44,7 @@
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
               <li <?php if ($page == "index") {echo 'class="active"';} ?>><a href="index.php"> <span class="glyphicon glyphicon-home"></span> Home</a></li>
-              <li><a href="about.html"> <span class="glyphicon glyphicon-user"></span> About us</a></li>
+              <li><a href="about.php"> <span class="glyphicon glyphicon-user"></span> About us</a></li>
               <li <?php if ($page == "portfolio") {echo 'class="active"';} ?>><a href="portfolio.php"> <span class="glyphicon glyphicon-picture"></span> Portfolio</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">

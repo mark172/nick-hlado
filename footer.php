@@ -88,6 +88,55 @@
         });
       });
     </script>
+    
+    <!-- Nivo Lightbox JS -->
+    <script src="nivolightbox/nivo-lightbox.min.js"></script>
+
+    <!--Shuffle JS -->
+    <script src="js/jquery.shuffle.min.js"></script>
+
+    <!--Imagesloaded JS -->
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+
+
+    <!-- Nivo Lightbox JS -->
+    <script>
+      $(document).ready(function(){
+        $('.portfolio-item a').nivoLightbox({
+          effect: 'fadeScale'
+        });
+      });
+    </script>
+
+    <!-- Shuffle JS -->
+    <script>
+    $(document).ready(function() {
+
+      /* initialize shuffle plugin */
+      var $grid = $('#grid');
+
+      $grid.shuffle({
+        itemSelector: '.portfolio-item', // the selector for the items in the grid
+        speed: 500 // Transition/animation speed (milliseconds)
+      });
+
+      /* reshuffle when user clicks a filter item */
+      $('.filter-nav li').click(function (e) {
+        e.preventDefault();
+
+        // set active class
+        $('.filter-nav li').removeClass('active');
+        $(this).addClass('active');
+
+        // get group name from clicked item
+        var groupName = $(this).attr('data-group');
+
+        // reshuffle grid
+        $grid.shuffle('shuffle', groupName );
+      });
+
+    });
+  </script>
 
   </body>
 </html>  
