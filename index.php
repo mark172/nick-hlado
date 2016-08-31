@@ -5,7 +5,7 @@
 
     <!-- Kineoworks Hero -->
     <div class="kineoworks-hero">
-      <h1 class="h1-responsive">Meet Nick Hlado Concept Artist<br><small>A beautiful way to showcase your products or portfolio</small></h1>
+      <h1 class="h1-responsive">Meet Nick Hlado Concept Artist<br><small></small></h1>
       <div class="container">
         <div class="row">
           <div class="laptop-navigation">

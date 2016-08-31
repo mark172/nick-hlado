@@ -44,7 +44,7 @@
           <div class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
               <li <?php if ($page == "index") {echo 'class="active"';} ?>><a href="index.php"> <span class="glyphicon glyphicon-home"></span> Home</a></li>
-              <li><a href="about.php"> <span class="glyphicon glyphicon-user"></span> About us</a></li>
+              <li <?php if ($page == "about") {echo 'class="active"';} ?>i><a href="about.php"> <span class="glyphicon glyphicon-user"></span> Resume</a></li>
               <li <?php if ($page == "portfolio") {echo 'class="active"';} ?>><a href="portfolio.php"> <span class="glyphicon glyphicon-picture"></span> Portfolio</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
