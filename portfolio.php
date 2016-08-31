@@ -242,7 +242,7 @@
             <!-- Kineoworks Portfolio Item -->
              <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "logo"]'>
               <!-- Big image -->
-              <a data-lightbox-gallery="logo" href="img/portfolio/big/Hailey_Pose_still_LG.jpg.jpg">
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Hailey_Pose_still_LG.jpg">
                  <!-- Thumbnail image -->
                 <img class="img-responsive" src="img/portfolio/small/Hailey_Pose_still_SM.jpg" alt="portfolio-item">
                 <!-- Thumbnail hover -->
@@ -264,7 +264,7 @@
             <!-- Kineoworks Portfolio Item -->
             <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "web"]'>
               <!-- Big image -->
-              <a data-lightbox-gallery="logo" href="img/portfolio/big/hand_compostion_LG.jpg.jpg">
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/hand_compostion_LG.jpg">
                  <!-- Thumbnail image -->
                 <img class="img-responsive" src="img/portfolio/small/hand_compostion_SM.jpg" alt="portfolio-item">
                 <!-- Thumbnail hover -->
@@ -280,6 +280,314 @@
                 <img class="img-responsive" src="img/portfolio/small/hands_life_drawing_SM.jpg" alt="portfolio-item">
                 <!-- Thumbnail hover -->
                 <div><h3>Hands Life Drawing<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+            
+            <!-- Kineoworks Portfolio Item -->
+             <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "logo"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Hlado_Muite_turnaround_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/Hlado_Muite_turnaround_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Hlado Muite Turnaround<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "graphic"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Hlado_Point_Break_Crossroads_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/Hlado_Point_Break_Crossroads_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Hlado Point Break Crossroads<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "web"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Hlado_villain_Marvious_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/Hlado_villain_Marvious_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Hlado Villain Marvious<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "illustration"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/human_full_body_pose_life_drawing_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/human_full_body_pose_life_drawing_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Human Full Body Pose Life Drawing<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+            
+            <!-- Kineoworks Portfolio Item -->
+             <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "logo"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Jared_turn_around_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/Jared_turn_around_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Jared Turn Around<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "graphic"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_concept01_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_concept01_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Concept 01<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "web"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_sketch01_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketch01_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketch 01<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "illustration"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_sketch02_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketch02_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketch 02<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+            
+            <!-- Kineoworks Portfolio Item -->
+             <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "logo"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Jared_turn_around_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketch03_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketch 03<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "graphic"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_sketch04_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketch04_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketch 04<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "web"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_sketch05_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketch05_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketch 05<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "illustration"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_sketch06_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketch06_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketch 06<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+            
+            <!-- Kineoworks Portfolio Item -->
+             <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "logo"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_sketch07_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketch07_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketch 07<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "graphic"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_sketch08_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketch08_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketch 08<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "web"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_sketch09_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketch09_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketch 09<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "illustration"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_sketch10_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketch10_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketch 10<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+            
+            <!-- Kineoworks Portfolio Item -->
+             <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "logo"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_sketches02_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketches02_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketches 02<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "graphic"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/life_drawing_sketches_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/life_drawing_sketches_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Life Drawing Sketches<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "web"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/lying_woman_still_life_drawing_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/lying_woman_still_life_drawing_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Lying Woman Still Life<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "illustration"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Mailai_full_concept_sketch_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/Mailai_full_concept_sketch_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Mailai Full Concept Sketch<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+            
+            <!-- Kineoworks Portfolio Item -->
+             <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "logo"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Mailai_turnaround_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/Mailai_turnaround_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Mailai Turnaround<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "graphic"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Meverick_Bounty_Killers_poster_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/Meverick_Bounty_Killers_poster_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Merverick Bounty Killers Poster<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "web"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Muite_concept_sketch_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/Muite_concept_sketch_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Muite Concept Sketch<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "illustration"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Pirates_composition_01_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/Pirates_composition_01_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Pirates Composition 01<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+            
+            <!-- Kineoworks Portfolio Item -->
+             <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "logo"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Pirates_concepts_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/Pirates_concepts_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Pirates Concepts<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "graphic"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/practice_free_hand_character_sketch_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/practice_free_hand_character_sketch_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Practice Free Hand Character Sketch<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "web"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/Reigo_poses_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/Reigo_poses_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Reigo Poses<br><small></small></h3></div>
+              </a>
+            </div> <!--/.portfolio-item -->
+
+            <!-- Kineoworks Portfolio Item -->
+            <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "illustration"]'>
+              <!-- Big image -->
+              <a data-lightbox-gallery="logo" href="img/portfolio/big/still_life_sketch_LG.jpg">
+                 <!-- Thumbnail image -->
+                <img class="img-responsive" src="img/portfolio/small/still_life_sketch_SM.jpg" alt="portfolio-item">
+                <!-- Thumbnail hover -->
+                <div><h3>Still Life Sketch<br><small></small></h3></div>
               </a>
             </div> <!--/.portfolio-item -->
 
