@@ -3,14 +3,13 @@
 
     <!-- Kineoworks Portfolio -->
     <div class="kineoworks-portfolio">
-      <h1 class="h1-responsive">Our portfolio<br><small>Combining beautiful & functional is what we do</small></h1>
+      <h1 class="h1-responsive">Nick's portfolio<br><small></small></h1>
       <div class="container">
         <div class="row">
           <div class="col-md-12 filter">
             <p>Filter the portfolio:</p>
             <ul class="filter-nav">
-              <li class="filter-li active" data-group="all">All</li>
-              <!--<li class="filter-li" data-group="graphic">Graphic Design</li>-->
+              <li class="filter-li active" data-group="logo">Sketches</li>
               <!--<li class="filter-li" data-group="web">Web Design</li>-->
               <!--<li class="filter-li" data-group="logo">Logo Design</li>-->
               <!--<li class="filter-li" data-group="illustration">Illustrations</li>-->
@@ -19,7 +18,7 @@
             </ul> <!--/.filter-nav -->
           </div>
           <div id="grid"> 
-
+            
             <!-- Kineoworks Portfolio Item -->
             <div class="col-md-3 col-sm-6 col-xs-6 portfolio-item" data-groups='["all", "logo"]'>
               <!-- Big image -->
