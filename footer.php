@@ -6,7 +6,7 @@
             <li><a href="index.php">Home</a></li>
             <li><a href="about.php">Resume</a></li>
             <li><a href="portfolio.php">Portfolio</a></li>
-            <li><a href="demoreel.php">Portfolio</a></li>
+            <li><a href="demoreel.php">Demo Reel</a></li>
             <li><a href="contact.php">Contact</a></li>
           </ul> <!--/.footer-nav -->
           <ul class="social-nav">
