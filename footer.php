@@ -3,20 +3,20 @@
       <div class="container">
         <div class="row">
           <ul class="footer-nav">
-            <li><a href="index.html">Home</a></li>
-            <li><a href="about.html">About us</a></li>
-            <li><a href="portfolio.html">Portfolio</a></li>
-            <li><a href="contact.html">Contact</a></li>
+            <li><a href="index.php">Home</a></li>
+            <li><a href="about.php">Resume</a></li>
+            <li><a href="portfolio.php">Portfolio</a></li>
+            <li><a href="demoreel.php">Portfolio</a></li>
+            <li><a href="contact.php">Contact</a></li>
           </ul> <!--/.footer-nav -->
           <ul class="social-nav">
             <li><a href="#"><img src="img/twitter-icon.jpg" alt="twitter"></a></li>
             <li><a href="#"><img src="img/facebook-icon.jpg" alt="facebook"></a></li>
-            <li><a href="#"><img src="img/dribbble-icon.jpg" alt="dribbble"></a></li>
             <li><a href="#"><img src="img/instagram-icon.jpg" alt="instagram"></a></li>
             <li><a href="#"><img src="img/linkedin-icon.jpg" alt="linkedin"></a></li>
           </ul> <!--/.social-nav -->
           <hr>
-          <p>©2016 Nick's Portfolio. All Rights Reserved</p>  
+          <p>©2016 Nick Hlado Portfolio. All Rights Reserved</p>  
         </div> <!--/.row -->  
       </div> <!--/.container -->
     </div> <!--/.footer -->
