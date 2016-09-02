@@ -28,20 +28,20 @@
     
     
     <!-- Kineoworks Testimonials -->
-    <div class="kineoworks-testimonials">
-      <div class="container">
-        <div class="row">
-          <div class="testimonial-navigation">
-            <a class="rslides_nav rslides2_nav prev pull-left btn btn-lg btn-testimonial">Previous</a>
-            <a class="rslides_nav rslides2_nav next pull-right btn btn-lg btn-testimonial">Next</a>
-          </div>
-          <ul class="kineoworks-testimonial-slides">
-             <li><p>“I absolutely love these guys, their insight and speed during this project was amazing“<br><small>John Doe, CEO of Wonderland</small></p></li>
-             <li><p>“Kineoworks always delivers top notch designs, no exceptions.”<br><small>Gavin de Koning, CEO of Ganchiland</small></p></li>
-           </ul>
-        </div>  
-      </div>  
-    </div> <!-- testimonials -->
+    <!--<div class="kineoworks-testimonials">-->
+    <!--  <div class="container">-->
+    <!--    <div class="row">-->
+    <!--      <div class="testimonial-navigation">-->
+    <!--        <a class="rslides_nav rslides2_nav prev pull-left btn btn-lg btn-testimonial">Previous</a>-->
+    <!--        <a class="rslides_nav rslides2_nav next pull-right btn btn-lg btn-testimonial">Next</a>-->
+    <!--      </div>-->
+    <!--      <ul class="kineoworks-testimonial-slides">-->
+    <!--         <li><p>“I absolutely love these guys, their insight and speed during this project was amazing“<br><small>John Doe, CEO of Wonderland</small></p></li>-->
+    <!--         <li><p>“Kineoworks always delivers top notch designs, no exceptions.”<br><small>Gavin de Koning, CEO of Ganchiland</small></p></li>-->
+    <!--       </ul>-->
+    <!--    </div>  -->
+    <!--  </div>  -->
+    <!--</div> <!-- testimonials -->-->
 
 <!-- footer -->
 <?php include 'footer.php' ?>
