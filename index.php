@@ -41,7 +41,7 @@
     <!--       </ul>-->
     <!--    </div>  -->
     <!--  </div>  -->
-    <!--</div> <!-- testimonials -->-->
+    <!--</div> <!-- testimonials -->
 
 <!-- footer -->
 <?php include 'footer.php' ?>
