@@ -21,7 +21,7 @@
         <div class="row">
           <div class="col-md-12">
             <h3>Interested in working together?</h3>
-            <a class="btn btn-danger btn-lg" href="contact.html">Contact us</a>
+            <a class="btn btn-danger btn-lg" href="contact.php">Contact us</a>
           </div>
         </div>  
       </div>  

@@ -7,14 +7,11 @@
       <div class="container">
         <div class="row">
 
-          <!-- Nav tabs -->
-
-          
           <!-- Tab panes -->
           <div class="tab-content">
             <div class="" id="question">
               <h2 class="h2-responsive">Questions?<br><small>Bring them on!</small></h2>
-              <form class="form-horizontal" role="form">
+              <form class="form-horizontal"action="contact/form-handler.php" method="post">
                 <div class="form-group">
                   <div class="col-sm-6">
                     <input type="text" class="form-control" id="inputNameQst" placeholder="Your name">
@@ -30,7 +27,7 @@
                 </div> 
                 <div class="form-group">
                   <div class="col-sm-12">
-                    <button type="button" class="btn btn-testimonial btn-lg btn-block">Submit Question</button>
+                    <button type="submit" class="btn btn-testimonial btn-lg btn-block">Submit Question</button>
                   </div>
                 </div>  
               </form>
