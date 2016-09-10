@@ -11,7 +11,7 @@
           <div class="tab-content">
             <div class="" id="question">
               <h2 class="h2-responsive">Questions?<br><small>Bring them on!</small></h2>
-              <form class="form-horizontal"action="contact/contact-mailer.php" method="post">
+              <form class="form-horizontal" role="form" method="post" action="contact/contact-mailer.php">
                 <div class="form-group">
                   <div class="col-sm-6">
                     <input type="text" class="form-control" name="name" placeholder="Your name">
