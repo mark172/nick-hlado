@@ -33,7 +33,7 @@ $emailto = 'mark172@me.com';
 			}
 			
 		$response = sendEmail($subject, $message, $emailto, $emailfrom);
-		header('Location: https://nicks-portfolio-sharkwebdev.c9users.io/contact.php');
+		header('Location: contact.php');
 			
 		} else {
 		

@@ -7,7 +7,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" href="ico/favicon.png">
 
-    <title>Kineoworks</title>
+    <title>Nick Hlado Concept Artist</title>
 
     <!-- Bootstrap core CSS -->
     <link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
