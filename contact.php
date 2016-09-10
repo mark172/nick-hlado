@@ -11,18 +11,18 @@
           <div class="tab-content">
             <div class="" id="question">
               <h2 class="h2-responsive">Questions?<br><small>Bring them on!</small></h2>
-              <form class="form-horizontal"action="contact/form-handler.php" method="post">
+              <form class="form-horizontal"action="contact/contact-mailer.php" method="post">
                 <div class="form-group">
                   <div class="col-sm-6">
-                    <input type="text" class="form-control" id="inputNameQst" placeholder="Your name">
+                    <input type="text" class="form-control" name="name" placeholder="Your name">
                   </div>
                   <div class="col-sm-6">
-                    <input type="email" class="form-control" id="inputEmailQst" placeholder="Your email">
+                    <input type="email" class="form-control" name="email" placeholder="Your email">
                   </div>  
                 </div>
                 <div class="form-group">
                   <div class="col-sm-12">
-                    <textarea class="form-control" rows="6" placeholder="Your message"></textarea>
+                    <textarea class="form-control" rows="6" name="message" placeholder="Your message"></textarea>
                   </div>
                 </div> 
                 <div class="form-group">
